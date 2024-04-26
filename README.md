@@ -6,11 +6,3 @@ I'm working on this for about 1.5 Month now. Currently i am developing a better 
 
 I've added a easy adjustable wave-managment system, that makes it much easyer for me to ballance the hole game.
 
-
-Things on the road yet to come:
-
-1.More possible Updates variety
-
-2.Coin visuals
-
-3.Endboss to end the game
